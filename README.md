@@ -18,10 +18,10 @@
 * [x] Importante arquivos CSS
 * [x] Utilizando SASS
 
-###### Desafio: Conceitos do React
+##### Desafio: Conceitos do React
 ###### Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no ReactJS. Essa será uma aplicação onde o seu principal objetivo é uma pequena aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React.
 
-###### Desafio: Componentizando a aplicação
+##### Desafio: Componentizando a aplicação
 ###### Nesse desafio iremos dividir uma aplicação em componentes afim de isolar as responsabilidades e facilitar a manutenção do código.
 
 ###### Chapter II
