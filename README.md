@@ -24,14 +24,14 @@
 ##### Desafio: Componentizando a aplicação
 ###### Nesse desafio iremos dividir uma aplicação em componentes afim de isolar as responsabilidades e facilitar a manutenção do código.
 
-###### Chapter II
-###### Chapter III
-###### Chapter IV
-###### Chapter V
-###### Chapter VI
+#### Chapter II
+#### Chapter III
+#### Chapter IV
+#### Chapter V
+#### Chapter VI
 
 ## NodeJS
-###### 
+####
 
 ## Elixir
-###### 
+####
